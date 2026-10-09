@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 Crime Hotspot Prediction System
 
 ## 📌 Project Overview
@@ -382,3 +383,6 @@ GitHub: `https://github.com/your-username`
 This project is created for **educational and academic purposes**.
 
 Add an appropriate open-source license if you intend to distribute the project publicly.
+=======
+# Crime_Hotspot_Prediction_system
+>>>>>>> 893e9b0b61244fad388f937a8c0169888a1c72e2
